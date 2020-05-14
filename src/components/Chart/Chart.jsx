@@ -12,8 +12,8 @@ const Chart = () => {
     const fetchAPI = async () => {
       setDailyData(await fetchDailyData());
 
-      fetchAPI();
-    }
+    };
+    fetchAPI();
   });
 
   const lineChart = dailyData.length ? (
