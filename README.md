@@ -1,7 +1,7 @@
 # COVID-19 Tracker
 ![alt_text](https://i.imgur.com/ekyIxQT.png)
 
-Live Site: 
+Live Site: https://kevin-nguyenn.github.io/covid19-tracker/
 
 ## Technologies Used
 - React.js
