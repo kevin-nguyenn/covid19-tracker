@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/covid19-tracker/static/css/main.5b8e783f.chunk.css",
+    "main.js": "/covid19-tracker/static/js/main.75cb6c82.chunk.js",
+    "main.js.map": "/covid19-tracker/static/js/main.75cb6c82.chunk.js.map",
+    "runtime-main.js": "/covid19-tracker/static/js/runtime-main.3ee0972c.js",
+    "runtime-main.js.map": "/covid19-tracker/static/js/runtime-main.3ee0972c.js.map",
+    "static/js/2.f93ef5ea.chunk.js": "/covid19-tracker/static/js/2.f93ef5ea.chunk.js",
+    "static/js/2.f93ef5ea.chunk.js.map": "/covid19-tracker/static/js/2.f93ef5ea.chunk.js.map",
+    "index.html": "/covid19-tracker/index.html",
+    "precache-manifest.797a750334780983e7bc9fca6cbf08d8.js": "/covid19-tracker/precache-manifest.797a750334780983e7bc9fca6cbf08d8.js",
+    "service-worker.js": "/covid19-tracker/service-worker.js",
+    "static/css/main.5b8e783f.chunk.css.map": "/covid19-tracker/static/css/main.5b8e783f.chunk.css.map",
+    "static/js/2.f93ef5ea.chunk.js.LICENSE.txt": "/covid19-tracker/static/js/2.f93ef5ea.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/covid19-tracker/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ee0972c.js",
+    "static/js/2.f93ef5ea.chunk.js",
+    "static/css/main.5b8e783f.chunk.css",
+    "static/js/main.75cb6c82.chunk.js"
+  ]
+}
